@@ -19,5 +19,5 @@ All additional parameters are handed to the original plotting function. Thus the
 
     sane3d.plot_matrix_surface(z, cstride=10, rstride=20)
     
-I also put a [notebook](), reproducing all of the [mplot3d tutorial](http://matplotlib.org/mpl_toolkits/mplot3d/tutorial.html) examples online.
+I also put a [notebook](http://nbviewer.ipython.org/github/hildensia/sane3d/blob/master/doc/Sane3D%20test.ipynb), reproducing all of the [mplot3d tutorial](http://matplotlib.org/mpl_toolkits/mplot3d/tutorial.html) examples online.
     
